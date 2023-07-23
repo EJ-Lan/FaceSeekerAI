@@ -1,6 +1,6 @@
 # FaceSeekerAI
 
-FaceSeekerAI is a web application that allows users to upload pictures and instantly detec faces using an AI api
+FaceSeekerAI is a web application that allows users to upload pictures and instantly detect faces using an AI api
 
 ## Features:
 * **User Sign In**: Secure authentication system for user accounts.
