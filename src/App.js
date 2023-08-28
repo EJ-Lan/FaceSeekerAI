@@ -14,9 +14,6 @@ function App() {
       <Logo />
       <Rank />
       <ImageLinkForm />
-      {/* {<Logo />
-      <ImageLinkForm />
-      <FaceRecognition />} */}
     </div>
   );
 }
